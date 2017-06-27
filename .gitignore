@@ -3,3 +3,14 @@
 !*.py
 !*.sh
 !*.php
+!exe_files/2csv
+!exe_files/2html
+!exe_files/2to3
+!exe_files/2to3-2
+!exe_files/2to3-2.7
+!exe_files/2xml
+!exe_files/filter
+!exe_files/xml2
+!exe_files/xmlif
+!exe_files/xmlto
+!support_files/.gitignore
